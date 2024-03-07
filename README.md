@@ -1,2 +1,2 @@
-# embedding_arena
-Hugging Face space for crowdsourcing data about different embedding models
+# Embedding Arena
+Hugging Face space for crowdsourcing data about quality different embedding models
