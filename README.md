@@ -10,4 +10,4 @@ pinned: false
 license: mit
 ---
 # Embedding Arena
-Hugging Face space for crowdsourcing data about the quality of different embedding models.
+[Hugging Face space](https://huggingface.co/spaces/abhijeethp/embedding_arena) for crowdsourcing data about the quality of different embedding models.
